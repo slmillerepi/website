@@ -1,0 +1,26 @@
+{
+  "about.qmd": {
+    "about.html": "47a9b7d6"
+  },
+  "index.qmd": {
+    "index.html": "fc0e4e9d"
+  },
+  "posts/2025-02-vaccine-discussion/index.qmd": {
+    "index.html": "4b87c9ca"
+  },
+  "posts.qmd": {
+    "posts.html": "f01e9d40"
+  },
+  "presentations/CIVICs-2023/index.qmd": {
+    "index.html": "6514a417"
+  },
+  "presentations/CIVR-HRP-2024/index.qmd": {
+    "index.html": "6920501a"
+  },
+  "presentations/DIVERsity-2024/index.qmd": {
+    "index.html": "c99ed23d"
+  },
+  "presentations.qmd": {
+    "presentations.html": "2f601f79"
+  }
+}

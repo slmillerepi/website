@@ -1,0 +1,33 @@
+---
+title: "Savannah L. Miller, MS"
+subtitle: "PhD  Student, Research Assistant in Epidemiology & Biostatistics"
+image: profile.jpeg
+about: 
+  template: trestles
+  links: 
+    - icon: linkedin
+      text: "LinkedIn"
+      href: "https://www.linkedin.com/in/slmillerepi/"
+    - icon: github
+      text: "GitHub"
+      href: "https://github.com/slmillerepi/"
+    - icon: envelope-fill
+      text: "Email"
+      href: "mailto:savannah.hammerton@uga.edu"
+    - icon: file-pdf-fill
+      text: "Resume"
+      href: "/static/resume.pdf"
+    - icon: google
+      text: "Google Scholar"
+      href: "https://scholar.google.com/citations?hl=en&user=3fuYdHgAAAAJ"
+    - text: "ORCid"
+      href: https://orcid.org/0000-0003-2231-3510
+---
+
+# About Me
+
+Hello there, and welcome to my site! I am a PhD student working towards a PhD in Epidemiology & Biostatistics with an emphasis in Data Analysis and Modeling. I attained my MS, also in Epidemiology & Biostatistics (emphasis in Epidemiology), as well as a Certificate in Infectious Disease Epidemiology in May 2022. I have particular interest and research emphasis in infectious diseases. I am passionate about “real world” implications of public health research and practice on individuals and context‐aware data analytic approaches to answering epidemiological questions.
+
+When not working or in school, I love textile crafts (knitting, crocheting, cross-stitch/embroidery, sewing, etc.), traveling, hiking, and spending time with my family, dog, and cat!
+
+Please peruse this site and feel free to contact me through the email icon! I am actively working on building this site, so please excuse any errors, messiness, or blank pages!

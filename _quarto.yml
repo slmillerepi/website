@@ -1,0 +1,30 @@
+project:
+  type: website      
+  output-dir: docs
+  resources:
+    - "static/"
+  
+
+website:
+  title: "Savannah L. Miller"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About     
+      - href: posts.qmd
+        text: Posts
+      - href: presentations.qmd
+        text: Presentations
+
+format:
+  html:
+    theme: 
+      dark: solar
+      light: flatly
+    css: styles.css
+    toc: true
+
+editor: visual
+

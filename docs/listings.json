@@ -1,0 +1,16 @@
+[
+  {
+    "listing": "/presentations.html",
+    "items": [
+      "/presentations/CIVICs-2023/index.html",
+      "/presentations/CIVR-HRP-2024/index.html",
+      "/presentations/DIVERsity-2024/index.html"
+    ]
+  },
+  {
+    "listing": "/posts.html",
+    "items": [
+      "/posts/2025-02-vaccine-discussion/index.html"
+    ]
+  }
+]
